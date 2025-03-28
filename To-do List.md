@@ -1,0 +1,61 @@
+# To-do List
+
+- [ ] Introduction
+	- [ ] Acknowledgement
+	- [ ] General Description
+	- [ ] Inspiration
+	- [ ] Index
+- [ ] Overview
+	- [ ] Design Philosophies
+	- [ ] Adventures
+	- [ ] Principals for the Warden
+	- [ ] Principals for the Players
+	- [ ] Principals of the Galaxy?
+- [ ] Character Creation
+	- [ ] Name, Background & Traits
+	- [ ] Age (Adjust Range)
+	- [ ] Ability Scores
+	- [ ] Hit Protection
+	- [ ] Inventory Explanation
+	- [ ] Starting Gear
+	- [ ] Name and Background Tables
+	- [ ] Character Traits Tables
+	- [ ] Starting Gear Tables
+- [ ] Equipment
+	- [ ] Armor
+	- [ ] Melee Weapons
+	- [ ] Ranged Weapons
+	- [ ] Explosives
+	- [ ] Gear & Tools
+	- [ ] Optional Gear Packages
+- [ ] Rules
+	- [ ] Abilities
+	- [ ] Saves Example
+	- [ ] Deprivation & Fatigue
+	- [ ] Healing
+	- [ ] Armor
+	- [ ] Reactions
+	- [ ] Morale
+	- [ ] Hirelings
+	- [ ] Wealth & Treasure
+- [ ] Combat
+	- [ ] Rounds
+	- [ ] Actions
+	- [ ] Turns Example
+	- [ ] Attacking & Damage Example
+	- [ ] Multiple Attackers
+	- [ ] Attack Modifiers
+	- [ ] Dual Weapons
+	- [ ] Blast
+	- [ ] Scars
+	- [ ] Critical Damage
+	- [ ] Ability Score Loss
+	- [ ] Unconsciousness & Death
+	- [ ] Detachments
+	- [ ] Retreat
+	- [ ] Scars Table
+- [ ] Bestiary
+	- [ ] Base Enemies
+	- [ ] Creating Enemies
+- [ ] Rules Summary
+	- [ ] SAVE THIS FOR LAST!
