@@ -72,7 +72,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ### Narrative Focus  
 - Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players,then put realistic opportunities in their path.
+- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
 - A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
 
 ### Danger  
@@ -88,7 +88,7 @@ Players trust one another to engage with the shared setting, character goals, an
 - Use Treasure as a lure to exotic locations under the protection of intimidating foes.
 
 ### Choice  
-- Give players a solid choice to force outcomes when the situation  lulls.
+- Give players a solid choice to force outcomes when the situation lulls.
 - Use binary "so, A or B?" responses when their intentions are vague.
 - Work together with this conversational progress to keep the game moving.
 - Ensure that the player character's actions leave their mark on the game world.
