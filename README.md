@@ -197,7 +197,7 @@ A Teen will start with (1d8x10) $USD.
 An Adult will start with (2d20x10) $USD.
 
 > [!note]
-> These die values are tied to the same dice rolled to determine the character's age. If the age die for a Youth gets changed to 1d10, this will also need to be updated.
+> These die values are tied to the same dice rolled to determine the character's age. If the age die for a Teen gets changed to 1d10, this will also need to be updated.
 
 > [!caution]
 > Is there anything considered to be standard enough that virtually all characters would have said items on them upon creation?
@@ -218,31 +218,36 @@ Each of the three **abilities** are used in different circumstances (see **saves
 
 **Dexterity (DEX):** Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 > [!note]
-> **Body:** Used for saves requiring physical prowess, including feats of both strength and speed. Lifting, bending, dodging, climbing, sneaking, balancing, resisting poison, etc.
+> **Body:** Used for saves requiring physical capability, including feats of both strength and speed. Lifting, bending, dodging, climbing, sneaking, balancing, resisting poison, etc.
 
 **Willpower** (WIL): Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
 > [!note]
-> **Mind:** 
+> **Mind:** Used for saves requiring mental prowess, including both knowledge and intuition. Solving puzzles, spotting differences, picking locks, discerning illusion from reality, resisting charms, etc.
+
+> [!note]
+> **Heart:** Used for saves requiring inner fortitude, including acts of both courage and compassion.
 
 **Saves**  
-A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll_equal to or under that ability score_, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll _equal to or under that ability score_, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+
+> [!caution]
+> Update the example to fit the implied setting.
 
 **Example:** _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
 
 **Deprivation & Fatigue**  
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
-PCs can also gain Fatigue by **casting spells** or through events in the fiction.
+A PC **deprived** of a crucial need (such as food or rest) is unable to recover **Stamina** or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
+PCs can also gain Fatigue through events in the fiction.
 
 **Healing**  
-Resting for a few moments and having a drink of water restores lost HP but leaves the party exposed. Ability loss can usually be restored with a week's rest facilitated by a healer or other appropriate source of expertise. Some of these services may be free, while more expedient or magical means of recovery may come at a cost.
+Resting for a few moments to catch your breath will restore lost **Stamina**, but leaves the PCs exposed. Ability loss takes longer to recover from. It can take as much as a week's rest and could require the aid of a medical professional or other appropriate source of expertise. Some of these services may be free, while more expedient recovery may come at a cost.
 
 **Armor**  
-Before calculating damage to HP, subtract the target's **Armor** value from the result of damage rolls. Shields and similar armor provides a bonus defense (e.g. +1 Armor), but only while the item is held or worn.  
+Before calculating damage to **Stamina**, subtract the target's **Armor** value from the result of damage rolls. Equipment can provide a bonus to defense (e.g. +1 Armor), but only while the item is appropriately held or worn.  
 No one can have more than 3 Armor.  
-Shields, gauntlets, and helms may provide additional benefits according to their use.
 
 **Reactions**  
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Warden may roll 2d6 and consult the following table:
+When the PCs encounter an NPC whose reaction to the party is not obvious, the GM may roll 2d6 and consult the following table:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
