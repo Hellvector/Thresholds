@@ -19,7 +19,7 @@
 **Thresholds** was written with the following design philosophies in mind:
 
 ### Neutrality  
-The Warden's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
+The GM's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
 ### Classless  
 A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
@@ -28,7 +28,7 @@ A character's role or skills are not limited by a single class. Instead, the equ
 Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
 
 ### Fiction First  
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the GM in dialogue with the players, based on in-world elements.
 
 ### Growth  
 Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
@@ -37,7 +37,7 @@ Characters are changed through in-world advancement, gaining new skills and abil
 Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
 
 ### Principles  
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+The GM and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
 
 ### Shared Objectives
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
@@ -45,7 +45,7 @@ Players trust one another to engage with the shared setting, character goals, an
 [back to index](#index)
 <p></p>
 
-## Principles for Wardens
+## Principles for GMs
 > [!caution]
 > Copied directly from the Cairn SRD.
 ### Information
@@ -63,7 +63,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ### Preparation
 - The game world is organic, malleable and random. It intuits and makes sharp turns.
 - Use random tables and generators to develop situations, not stories or plots.
-- NPCs remember what the PCs say and do,and how they affect the world.
+- NPCs remember what the PCs say and do, and how they affect the world.
 - NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
 
 ### Narrative Focus  
@@ -111,7 +111,7 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ### Exploration
 - Asking questions and listening to detail is more useful than any stats, items, or skills you have.
-- Take the Warden's description without suspicion, but don't shy away from seeking more information.
+- Take the GM's description without suspicion, but don't shy away from seeking more information.
 - There is no single correct way forward.
 
 ### Talking
@@ -162,17 +162,17 @@ Next, choose or roll for your **Background** to determine your starting equipmen
 
 #### Ability Scores
 Player Characters (PCs) have just three attributes:  
-**BODY**, **MIND**, and **HEART**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+**Body**, **Mind**, and **Heart**. When creating a PC, the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
 
 **Example:**
-Dani rolls for their character's **BODY**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **MIND** and a **13** for **HEART**. They decide to swap the **12** and the **9**, for a character with **9 BODY**, **12 MIND** and **13 HEART**.
+Dani rolls for their character's **Body**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **Mind** and a **13** for **Heart**. They decide to swap the **12** and the **9**, for a character with **9 Body**, **12 Mind** and **13 Heart**.
 
 ### Stamina
 
 > [!caution]
 > Changing Hit Protection to Stamina. This will help further separate from the idea that HP equates health and the literal vitality of a character. It also then makes more sense that a character can recover their **Stamina** with just a few short minutes of rest, while attribute damage takes longer to recover. Will need to rework the text a bit and possibly rename the **Scars**.
 
-Roll 1d6 to determine your PC's starting **STAMINA**, which reflects their ability to avoid damage in combat. **STAMINA** does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's **STAMINA** exactly to 0, the player must roll on the **Scars** table.
+Roll 1d6 to determine your PC's starting **Stamina**, which reflects their ability to avoid damage in combat. **Stamina** does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's **Stamina** exactly to 0, the player must roll on the **Scars** table.
 
 #### Inventory
 > [!caution]
@@ -180,9 +180,9 @@ Roll 1d6 to determine your PC's starting **STAMINA**, which reflects their abili
 
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency pillow, provided its contents aren't _too_ lumpy.
 
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Warden's discretion.
+Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the GM's discretion.
 
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 **STAMINA**.
+**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 **Stamina**.
 
 A PC cannot carry more items than their inventory allows. 
 
@@ -236,8 +236,8 @@ A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs
 **Example:** _Bea encounters a group of heavily-armed Goblins standing guard before a tunnel entrance. Her player carefully plots a course, recognizing that her 13 DEX makes sneaking past the guards the best option. She rolls a d20, and resulting in a 10 – a success!_
 
 **Deprivation & Fatigue**  
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover **Stamina** or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
-PCs can also gain Fatigue through events in the fiction.
+A PC **deprived** of a crucial need (such as food or rest) is unable to recover **Stamina** or ability scores. Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each **Fatigue** occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).  
+PCs can also gain **Fatigue** through events in the fiction.
 
 **Healing**  
 Resting for a few moments to catch your breath will restore lost **Stamina**, but leaves the PCs exposed. Ability loss takes longer to recover from. It can take as much as a week's rest and could require the aid of a medical professional or other appropriate source of expertise. Some of these services may be free, while more expedient recovery may come at a cost.
@@ -255,14 +255,157 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the GM
 | Hostile | Wary | Curious | Kind | Helpful |
 
 **Morale**  
-Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
-
-**Hirelings**  
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+Enemies must pass a **Heart** save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's **Heart** in place of their own. Lone foes must save when they're reduced to 0 **Stamina**. Morale does not affect PCs.
 
 **Wealth & Treasure**  
-The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
+The value of a currency is dependent entirely upon where you are while in possession of it.
 
 Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
 
-Villages,strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
+Individual towns and settlements barter and trade based on the local rarity and value of an item or commodity.
+
+## Combat
+> [!caution]
+> Some of this may need to be cleaned up and adjusted.
+
+**Rounds**
+The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
+
+**Actions**  
+> [!caution]
+> Consider changing distance references to the Close, Near, Far system.
+
+On their turn, a character may move up to 40ft and take up to one action. This may be attacking, making a second move, or some other reasonable action.
+
+Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the GM calls for a save for appropriate players or NPCs. All actions, attacks, and movements take place simultaneously.
+
+**Turns**  
+The GM will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a **Mind** save to act before their opponents.
+
+> [!caution]
+> Update this example.
+
+**Example:** _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
+
+**Attacking & Damage**  
+The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's **Stamina**. Unarmed attacks always do 1d4 damage.
+
+> [!caution]
+> Update this example.
+
+**Example:** _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Warden rolls a 4. They subtract 1 to account for Bea's leather armor, leaving Bea with 2 HP remaining_.
+
+**Multiple Attackers**  
+If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
+
+**Attack Modifiers**  
+If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage _regardless_ of the attacks damage die.
+
+If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced** , allowing the attacker to roll 1d12 damage instead of their normal die.
+
+**Dual Weapons**  
+If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+
+**Blast**  
+Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
+
+**Scars**  
+When damage to a PC reduces their **Stamina** to exactly 0, they are sometimes changed irrevocably. See the **Scars** table for more.
+
+**Critical Damage**  
+Damage that reduces a target's **Stamina** below zero decreases a target's **Body** by the amount remaining. They must then make a **Body** save to avoid **critical damage**. Additionally, some enemies will have special abilities or effects that are triggered when their target fails a **critical damage** save.
+
+Any PC that suffers critical damage cannot do anything but crawl weakly, grasping for life. If given aid and rest, they will stabilize. If left untreated, they die within the hour.
+
+**Ability Score Loss**  
+If a PC's **Body** is reduced to 0, they die. If their **Mind** is reduced to 0, they are delirious. If their **Heart** is reduced to 0, they are miserable.
+Complete **Mind** and **Heart** loss renders the character unable to act until they are restored through extended rest or by extraordinary means.  
+
+**Unconsciousness & Death**  
+When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+
+**Detachments**  
+> [!note]
+> Considering removing this rule entirely.
+
+Large groups of similar combatants fighting together are treated as a single **detachment**. When a **detachment** takes **critical damage**, it is routed or significantly weakened. When it reaches 0 **Body**, it is destroyed.
+
+Attacks against detachments by individuals are **impaired** (excluding blast damage).  
+Attacks against individuals by detachments are **enhanced** and deal blast damage.
+
+**Retreat**  
+Running away from a dire situation always requires a successful **Body** save, as well as a safe destination to run to.
+
+**Scars**  
+When an attack reduces a PC's **Stamina** to exactly 0, they are uniquely impacted. Look up the result on the table below based on the total damage taken:
+
+|      |                                                              |
+|------ |---|
+| 1    | Lasting Scar: Roll 1d6 &#124; 1: Neck, 2: Hands, 3: Eye, 4: Chest, 5: Legs, 6: Ear. Roll 1d6. If the total is higher than your max **Stamina**, take the new result. |
+| 2    | Rattling Blow: You’re disoriented and shaken. Describe how you refocus. Roll 1d6. If the total is higher than your max **Stamina**, take the new result. |
+| 3    | Walloped: You’re sent flying and land flat on your face, winded. You are deprived until you rest for a few hours. Then, roll 1d6. Add that amount to your max **Stamina**. |
+| 4    | Broken Limb: Roll 1d6 &#124; 1-2: Leg, 3-4: Arm, 5: Rib, 6: Skull. Once mended, roll 2d6. If the total is higher than your max **Stamina**, take the new result. |
+| 5    | Diseased: You’re afflicted with a gross, uncomfortable infection. When you get over it, roll 2d6. If the total is higher than your max **Stamina**, take the new result. |
+| 6    | Reorienting Head Wound: Roll 1d6 &#124; 1-2: **Body**, 3-4: **Mind**, 5-6: **Heart**. Roll 3d6. If the total is higher than your current ability score, take the new result. |
+| 7    | Hamstrung: You can barely move until you get serious help and rest. After recovery, roll 3d6. If the total is higher than your max **Body**, take the new result. |
+| 8    | Deafened: You cannot hear anything until you find extraordinary aid. Regardless, make a **Mind** save. If you pass, increase your max **Mind** by 1d4. |
+| 9    | Re-brained: Some hidden part of your psyche is knocked loose. Roll 3d6. If the total is higher than your max **Mind**, take the new result. |
+| 10   | Sundered: An appendage is torn off, crippled or useless. The GM will tell you which. Then, make a **Heart** save. If you pass, increase your max **Heart** by 1d6. |
+| 11   | Mortal Wound: You are **deprived** and out of action. You die in one hour unless healed. Upon recovery, roll 2d6. Take the new result as your max **Stamina**. |
+| 12   | Doomed: Death seemed ever so close, but somehow you survived. If your next save against **critical damage** is a fail, you die horribly. If you pass, roll 3d6. If the total is higher than your max **Stamina**, take the new result. |
+
+[back to index](#index)
+<p></p>
+
+# Rules Summary
+
+**ACTIONS**  
+On their turn, a character may move up to 40ft and take up to one action. Actions may include attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a **Mind** save to see if they go before their enemies.
+
+**Retreating** from a dangerous situation always requires a successful **Body** save, as well as a safe destination to run to.
+
+> [!missing]
+> Update this information below.
+
+**ABILITIES**  
+**STR:** Brawn, prowess & resistance.   
+**DEX:** Dodging, sneaking & reflexes.   
+**WIL:**  Persuasion, intimidation & magic.
+
+**SAVES**  
+- Roll a d20 equal to or under an ability.
+- 1 is always a success, 20 is always a failure.
+
+**Stamina**  
+**Stamina** indicates a PC's ability to avoid getting hurt. It is lost during combat & recovered after a few moment's rest.
+
+**INVENTORY**  
+PCs have 10 inventory slots: four on their body and six in their backpack. Most items take up a one slot, but smaller items can be bundled. **Bulky** items take up two slots and are awkward or difficult to carry.
+
+Filling all ten item slots reduces a PC to 0 **Stamina**. PCs cannot carry more than their inventory allows.
+
+**DEPRIVATION**  
+**Deprived** PCs cannot recover **Stamina**. If deprived for more than a day, they add a **Fatigue** to inventory. **Fatigue** occupies one slot and lasts until they can recover in safety. This effect is cumulative.
+
+**HEALING**  
+A moment's rest will restore lost **Stamina**, but may leave the PCs vulnerable. **Ability** loss may require up to a week's rest and medical aid.
+
+**COMBAT**  
+The attacker rolls their weapon die and subtracts the target's **Armor**, then deals the remaining total to their opponent's **Stamina**.
+
+Before calculating damage to **Stamina**, subtract the target's **Armor** value from the result of damage rolls. Some equipment may provide a bonus defense (e.g. +1 Armor), but only while the item is held or worn.
+
+No one can have more than 3 Armor.
+
+**Unarmed** attacks always do 1d4 damage. If **multiple attackers** target the same foe, roll all damaged ice and keep the single highest result. If attacking with **two weapons** at the same time, roll both damage dice and keep the highest.
+
+If an attack is **impaired** , the damage die is reduced to 1d4, regardless of weapon. If the attack is **enhanced** , the attacker rolls 1d12. Attacks with the **blast** quality affect all area targets, rolling separately for each.
+
+**DAMAGE**  
+If an attack takes a PC's **Stamina** exactly to 0, the player rolls on the **Scars** table.
+
+Damage that reduces a target's **Stamina** _below_ 0 decreases their **Body** by the remainder. They must then make a **Body** save to avoid **critical damage.**  Failure takes them out of combat, dying if left untreated.
+
+Having **Body** 0 means **death**; having **Mind** 0 is delirium; having **Heart** 0 is dispirit.
+
+[back to index](#index)
