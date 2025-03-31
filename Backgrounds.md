@@ -57,3 +57,43 @@
 | 19  | **Teacher**: Coffee mug, scissors, large bag.                                                                            |
 | 20  | **Contractor**: Stocked toolbelt, utility knife (d6), heavy duty flashlight, drill.                                      | 
 
+# Brainstorming
+
+
+| d8  |         | 1-2         | 3-4          | 5-6        |
+| --- | ------- | ----------- | ------------ | ---------- |
+| 1   | Geek    | Theater     | Band         | Scout      |
+| 2   | Nerd    | Mathlete    | Overachiever |            |
+| 3   | Rebel   | Punk        | Hipster      |            |
+| 4   | Slacker | Comedian    | Hippy        |            |
+| 5   | Athlete | Jock        | Cheerleader  | J.R.O.T.C. |
+| 6   | Outcast | Basket Case | Loner        |            |
+| 7   | Popular | Rich        | Attractive   | Cool       | 
+| 8   |         |             |              |            |
+
+Options: Several pulled from Kids on Bikes
+- [ ] Mathlete
+- [ ] Jock
+- [ ] Bully
+- [ ] Comedian
+- [ ] Slacker
+- [ ] Loner Wierdo
+- [ ] Plastic Beauty
+- [ ] Popular Kid
+- [ ] Scout
+- [ ] Wannabe
+- [ ] Nerd
+- [ ] Geek
+- [ ] Punk/Rebel
+- [ ] Theater Kid
+- [ ] Band Kid
+- [ ] Overachiever
+- [ ] Know-it-all
+- [ ] Teacher's Pet
+- [ ] Artsy Kid
+- [ ] Misfit
+- [ ] Hipster
+- [ ] Skater
+- [ ] Christian
+- [ ] Hippy
+- [ ] Floater
